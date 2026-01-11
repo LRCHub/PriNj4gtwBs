@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Easy Breezy",
+  "base_artist": "chelmico",
+  "createdAt": "2026-01-11T15:42:01.586608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Easy Breezy",
+      "artist": "chelmico",
+      "has_synced": true,
+      "path": "select/01_Easy_Breezy_chelmico.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Easy Breezy",
+      "artist": "chelmico",
+      "has_synced": true,
+      "path": "select/02_Easy_Breezy_chelmico.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Easy Breezy",
+      "artist": "Utada",
+      "has_synced": true,
+      "path": "select/03_Easy_Breezy_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Easy Breezy",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/04_Easy_Breezy_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Easy Breezy",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/05_Easy_Breezy_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Easy Breezy (From \"Keep Your Hands Off Eizouken!\")",
+      "artist": "Shayne Orok",
+      "has_synced": false,
+      "path": "select/06_Easy_Breezy_(From__Keep_Your_Hands_Off_Eizouken!_)_Shayne_Orok.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "easy breezy",
+      "artist": "Yaeji",
+      "has_synced": false,
+      "path": "select/07_easy_breezy_Yaeji.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Easy Breezy",
+      "artist": "Kiana Ledé",
+      "has_synced": true,
+      "path": "select/08_Easy_Breezy_Kiana_Ledé.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Easy Breezy (Radio Edit)",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/09_Easy_Breezy_(Radio_Edit)_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Easy Breezy",
+      "artist": "Kiana Ledé",
+      "has_synced": true,
+      "path": "select/10_Easy_Breezy_Kiana_Ledé.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Easy Breezy",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/11_Easy_Breezy_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Easy Breezy",
+      "artist": "Utada",
+      "has_synced": true,
+      "path": "select/12_Easy_Breezy_Utada.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Easy Breezy (feat. Seo In Guk)",
+      "artist": "JUEUN",
+      "has_synced": true,
+      "path": "select/13_Easy_Breezy_(feat._Seo_In_Guk)_JUEUN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Easy Breezy",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/14_Easy_Breezy_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Easy Breezy",
+      "artist": "Clutch",
+      "has_synced": true,
+      "path": "select/15_Easy_Breezy_Clutch.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Easy Breezy",
+      "artist": "chelmico",
+      "has_synced": false,
+      "path": "select/pl_01_Easy_Breezy_chelmico.txt"
+    }
+  ]
+}
